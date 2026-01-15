@@ -4,4 +4,3 @@
 - 🤔 I’m looking for help with what to advance into
 - 💬 Ask me about python or generall learning techniques
 - 📫 How to reach me: mohammadsojod85@gmail.com
-- ⚡ Fun fact: ex-powerlifter and 
