@@ -1,6 +1,7 @@
-- 🔭 I’m currently working on Python & Machine Learn projects
-- 🌱 I’m currently learning Machine Learning skill
-- 👯 I’m looking to collaborate on Linkedin
-- 🤔 I’m looking for help with what to advance into
-- 💬 Ask me about python or generall learning techniques
-- 📫 How to reach me: mohammadsojod85@gmail.com
+- 🔭 I’m currently working on Python & Machine Learning projects
+- 🌱 I’m currently advancing my Machine Learning skills
+- 👯 I’m looking to connect on Linkedin
+- 🤔 I’m looking for help with what to advance into and internship oppurtunities
+- 💬 Ask me about python or general learning techniques
+- Gmail: mohammadsojod85@gmail.com
+- Linkedin: www.linkedin.com/in/mohammad-sojod
